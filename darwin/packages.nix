@@ -39,8 +39,7 @@
 
   # Fonts configuration - installing additional fonts
   fonts.packages = with pkgs; [
-    fira-code         # Standard FiraCode font for better coding readability
-    nerd-fonts        # Nerd Fonts support (icons for terminal and editors)
+    nerd-fonts.fira-code         # Standard FiraCode font for better coding readability
     font-awesome      # Icon font used in UI applications and web development
   ];
 
