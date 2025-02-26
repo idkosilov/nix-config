@@ -12,5 +12,6 @@ This repository provides a declarative macOS configuration using Nix, nix-darwin
 
 Run the setup script:
 
+```bash
 ./install.sh
-
+```
