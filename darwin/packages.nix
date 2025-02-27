@@ -30,11 +30,12 @@
     wireshark    # Network protocol analyzer for monitoring traffic
     mpv          # Lightweight media player with powerful features
     ffmpeg       # Command-line tool for processing multimedia files
-    jetbrains.pycharm-community # Community edition of JetBrains PyCharm for Python development
     obsidian     # Note-taking and knowledge management application
     telegram-desktop # Desktop client for Telegram messenger
     kitty        # Fast, GPU-accelerated terminal emulator
-    lens         # GUI for managing Kubernetes clusters
+    lens         # GUI for managing Kubernetes cluster
+    poetry       # Poetry python package manager
+    uv           # UV python package manager
   ];
 
   # Fonts configuration - installing additional fonts
