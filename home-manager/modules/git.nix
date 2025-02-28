@@ -6,5 +6,10 @@ in {
     enable = true;
     userName = cfg.git.userName;
     userEmail = cfg.git.userEmail;
+
+    signing = {
+      signByDefault = true;
+      format = "openpgp";
+    };
   };
 }

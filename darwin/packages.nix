@@ -31,11 +31,13 @@
     mpv          # Lightweight media player with powerful features
     ffmpeg       # Command-line tool for processing multimedia files
     obsidian     # Note-taking and knowledge management application
-    telegram-desktop # Desktop client for Telegram messenger
     kitty        # Fast, GPU-accelerated terminal emulator
     lens         # GUI for managing Kubernetes cluster
     poetry       # Poetry python package manager
     uv           # UV python package manager
+    pandoc       # Utility for converting docs
+    ruff         # Extremely fast Python linter and code formatter, written in Rust
+    gnupg      # OpenPGP encryption and signing tool
   ];
 
   # Fonts configuration - installing additional fonts
@@ -57,6 +59,7 @@
       "yandex-music" # Yandex Music desktop application
       "outline-manager" # VPN management tool
       "orbstack"        # Lightweight Docker and Linux environment for macOS
+      "telegram" # Desktop client for Telegram messenger
     ];
 
     # Mac App Store applications installed via `mas`
