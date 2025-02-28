@@ -70,5 +70,6 @@
 
   power = {
     restartAfterPowerFailure = true;
+    sleep.computer = "never";
   };
 }
